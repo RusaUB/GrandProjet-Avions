@@ -1,0 +1,99 @@
+F-GTAS,Air-France,Paris-CDG,A321-200,0,0,212
+D-AINA,Lufthansa,Tegel,A350-900,18,45,226
+D-AIMA,Lufthansa,Munich-FJS,A380-800,9,80,343
+G-ZBJA,British-Airways,Heathrow,B787-9,10,26,280
+G-VIIA,British-Airways,Heathrow,B777-200,26,40,146
+N-351AA,Delta-Airlines,Denver,B767-300ER,6,26,151
+A6-EDJ,Emirates,Dubai,A380-800,9,80,343
+EC-LEV,Iberia,Barajas,A340-600,8,44,328
+EC-LFS,Iberia,Barajas,A340-600,8,44,328
+D-AIHW,Lufthansa,Tegel,A340-600,8,44,328
+D-AIHX,Lufthansa,Francfort,A340-600,8,44,328
+D-AIHY,Lufthansa,Tegel,A340-600,8,44,328
+EC-LUK,Iberia,Josep-Tarrabella,A330-300,40,21,147
+B-5918,Air-China,Daxing,A330-300,40,21,147
+B-5919,Air-China,Daxing,A330-300,40,21,147
+B-6503,Air-China,Daxing,A330-300,40,21,147
+B-LAZ,Cathay-Pacific,Hong Kong International Airport,A330-300,40,21,147
+B-LBA,Cathay-Pacific,Hong Kong International Airport,A330-300,40,21,147
+B-LAQ,Cathay-Pacific,Hong Kong International Airport,A330-300,40,21,147
+B-HLR,Cathay-Pacific,Hong Kong International Airport,A330-300,40,21,147
+B-HLQ,Cathay-Pacific,Hong Kong International Airport,A330-300,40,21,147
+D-AIKP,Lufthansa,Munich-FJS,A330-300,40,21,147
+D-AIKR,Lufthansa,Munich-FJS,A330-300,40,21,147
+D-AIKO,Lufthansa,Munich-FJS,A330-300,40,21,147
+C-GKUH,Air-Canada,Pearson,A330-300,40,21,147
+VQ-BPK,Aeroflot,Sheremetyevo,A330-300,40,21,147
+VQ-BDE,Aeroflot,Sheremetyevo,A330-300,40,21,147
+VQ-BMY,Aeroflot,Sheremetyevo,A330-300,40,21,147
+N-813NW,Delta-Airlines,John-Fitzgerald-Kennedy,A330-300,40,21,147
+N-814NW,Delta-Airlines,John-Fitzgerald-Kennedy,A330-300,40,21,147
+N-812NW,Delta-Airlines,O_Hare,A330-300,40,21,147
+N-861NW,Delta-Airlines,Or-Tambo,A330-300,40,21,147
+F-GZCB,Air-France,Paris-CDG,A330-300,40,21,147
+F-GZCD,Air-France,Paris-CDG,A330-300,40,21,147
+F-GZCA,Air-France,Paris-CDG,A330-300,40,21,147
+F-GZCH,Air-France,Paris-CDG,A330-300,40,21,147
+F-GSPH,Air-France,Paris-CDG,B777-200,26,40,146
+F-GSPR,Air-France,Paris-CDG,B777-200,26,40,146
+F-GSPV,Air-France,Paris-CDG,B777-200,26,40,146
+F-GSPG,Air-France,Paris-CDG,B777-200,26,40,146
+F-GSPQ,Air-France,Paris-CDG,B777-200,26,40,146
+B-HNH,Cathay-Pacific,Hong Kong International Airport,B777-200,26,40,146
+B-HNG,Cathay-Pacific,Hong Kong International Airport,B777-200,26,40,146
+B-HNF,Cathay-Pacific,Hong Kong International Airport,B777-200,26,40,146
+N-78001,United-Airlines,O_Hare,B777-200,26,40,146
+N-78002,United-Airlines,O_Hare,B777-200,26,40,146
+N-78003,United-Airlines,O_Hare,B777-200,26,40,146
+N-78004,United-Airlines,O_Hare,B777-200,26,40,146
+N-78005,United-Airlines,O_Hare,B777-200,26,40,146
+B-2059,Air-China,Daxing,B777-200,26,40,146
+B-2060,Air-China,Daxing,B777-200,26,40,146
+B-2061,Air-China,Daxing,B777-200,26,40,146
+B-2064,Air-China,Daxing,B777-200,26,40,146
+N-26909,United-Airlines,O_Hare,B787-9,10,26,280
+N-26910,United-Airlines,O_Hare,B787-9,10,26,280
+N-26912,United-Airlines,O_Hare,B787-9,10,26,280
+N-301AA,Delta-Airlines,Logan,B767-300ER,6,26,151
+N-302AA,Delta-Airlines,Logan,B767-300ER,6,26,151
+N-303AA,Delta-Airlines,Logan,B767-300ER,6,26,151
+N-304AA,Delta-Airlines,Logan,B767-300ER,6,26,151
+D-AIXA,Lufthansa,Francfort,A350-900,18,45,226
+D-AIXB,Lufthansa,Francfort,A350-900,18,45,226
+D-AIXC,Lufthansa,Francfort,A350-900,18,45,226
+EC-MXV,Iberia,Barajas,A350-900,18,45,226
+EC-NCX,Iberia,Barajas,A350-900,18,45,226
+EC-NDR,Iberia,Barajas,A350-900,18,45,226
+OC-LWA,Finnair,Vantaa,A350-900,18,45,226
+OC-LWB,Finnair,Vantaa,A350-900,18,45,226
+OC-LWC,Finnair,Vantaa,A350-900,18,45,226
+N-508DN,Delta-Airlines,John-Fitzgerald-Kennedy,A350-900,18,45,226
+N-509DN,Delta-Airlines,John-Fitzgerald-Kennedy,A350-900,18,45,226
+N-510DN,Delta-Airlines,John-Fitzgerald-Kennedy,A350-900,18,45,226
+N-511DN,Delta-Airlines,John-Fitzgerald-Kennedy,A350-900,18,45,226
+B-LRD,Cathay-Pacific,Hong Kong International Airport,A350-900,18,45,226
+B-LRE,Cathay-Pacific,Hong Kong International Airport,A350-900,18,45,226
+B-LRF,Cathay-Pacific,Hong Kong International Airport,A350-900,18,45,226
+9V-SMC,Singapour-Airlines,Changi,A350-900,18,45,226
+9V-SMD,Singapour-Airlines,Changi,A350-900,18,45,226
+G-VIIO,British-Airways,Heathrow,B777-200,26,40,146
+G-VIIP,British-Airways,Heathrow,B777-200,26,40,146
+G-VIIR,British-Airways,Heathrow,B777-200,26,40,146
+G-VIIS,British-Airways,Heathrow,B777-200,26,40,146
+A6-EBU,Emirates,Dubai,B777-200,26,40,146
+A6-EWA,Emirates,Dubai,B777-200,26,40,146
+A6-EWB,Emirates,Dubai,B777-200,26,40,146
+A6-ECF,Emirates,Dubai,B777-200,26,40,146
+A6-EWC,Emirates,Dubai,B777-200,26,40,146
+F-HPJA,Air-France,Paris-Orly,B737-800,0,12,156
+F-HPJB,Air-France,Paris-Orly,B737-800,0,12,156
+F-HPJC,Air-France,Paris-Orly,B737-800,0,12,156
+F-HPJD,Air-France,Paris-Orly,B737-800,0,12,156
+F-HPJE,Air-France,Paris-Orly,B737-800,0,12,156
+ZS-SXX,SAA,Paris-Orly,B737-800,0,12,156
+F-HEPA,Air-France,Paris-Orly,B737-800,0,12,156
+F-GKXZ,Air-France,Paris-Orly,B737-800,0,12,156
+F-GKXU,Air-France,Paris-Orly,B737-800,0,12,156
+F-GKXS,Air-France,Paris-Orly,B737-800,0,12,156
+F-GKXQ,Air-France,Paris-Orly,B737-800,0,12,156
+F-GXXX,Air-France,Paris-CDG,A321-200,0,0,212

@@ -1,0 +1,19 @@
+Air-France,France,AF
+Lufthansa,Allemagne,LH
+British-Airways,Angleterre,BA
+Delta-Airlines,Etats-Unis,DL
+Japan-Airlines,Japon,JL
+Emirates,Emirats-Arabes-Unis,EK
+Air-Canada,Canada,AC
+Iberia,Espagne,IB
+Finnair,Finlande,AY
+Air-India,Inde,AI
+Cathay-Pacific,Hong Kong,CX
+Aerolineas-Argentinas,Argentine,AR
+Aeroflot,Federation-de-Russie,SU
+South-African-Airways,Afrique-du-Sud,SA
+American-Airlines,Etats-Unis,DL
+United-Airlines,Etats-Unis,UA
+Air-China,Chine,CA
+China-Eastern,Chine,MU
+Singapour-Airlines,Singapour,SQ

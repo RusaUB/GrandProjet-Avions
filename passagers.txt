@@ -1,0 +1,10 @@
+1,ader,clement,23,bonaparte,paris,France
+2,auriol,jacqueline,15,des etuves,geneve,suisse
+3,bolland,adrienne,78,universitatsring,vienne,Autriche
+4,cayley,georges,34,troostraat,ostende,Belgique
+5,cochran,jacqueline,10,via degli anemoni,milan,Italie
+6,dassault,marcel,235,calle de la sagasta,madrid,Espagne
+7,grumman,leroy,55,concord street,new-york,etats-unis
+8,marvingt,marie,114,marylebone road,londres,angletterre
+9,santos-dumont,alberto,233,via scorfa,rome,Italie
+10,laverdure,ernest,1122,shinkoiva,tokyo,japon
