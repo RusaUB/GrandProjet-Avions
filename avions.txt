@@ -1,4 +1,4 @@
-F-GTAS,Air-France,Paris-CDG,A321-200,0,0,212
+
 F-GTAS,Air-France,dudud,A321-200,0,0,212
 D-AINA,Lufthansa,Tegel,A350-900,18,45,226
 D-AIMA,Lufthansa,Munich-FJS,A380-800,9,80,343
